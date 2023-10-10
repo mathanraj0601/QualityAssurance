@@ -11,19 +11,19 @@ Requirement Gathering -> Design specification -> Implementation -> testing -> De
 ## Model
 
 ### Water Flow 
-    - Sequence flow follows the above step
+- Sequence flow follows the above step
 
 ### Iterative Model
-    - Small set of task to complete part of application
+- Small set of task to complete part of application
 
 ### Prototype Model
-    - An working prototype to customer until confirmed and start from implemetation
+- An working prototype to customer until confirmed and start from implemetation
 
 ### Spiral  Model
-    - Iterative model + Water Fall
+- Iterative model + Water Fall
 
 ### V Model
-    - Testing and Developement side by side from requirement gathering to deployment.
+- Testing and Developement side by side from requirement gathering to deployment.
 
 ## STLC
 
