@@ -28,6 +28,8 @@ if tester are internal testing team and employees : alpha
 
 if tester are end-user then testing : beta
 
+[Reference for level of testing](https://artoftesting.com/levels-of-software-testing)
+
 ## Type of testing
 
 ![](https://media.geeksforgeeks.org/wp-content/uploads/20230808151753/Software-Testing-768.png)
@@ -38,3 +40,6 @@ Non -functional testing involves stressing memory,network etc., to check out app
 Usablity test : checking user experience
 
 Compatibility test : check a web application support different platform
+
+
+[Reference for Types of testing](https://www.geeksforgeeks.org/types-software-testing/)

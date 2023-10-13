@@ -4,6 +4,7 @@
 
 - functional : testing the feature example : login
 - non-functional : testing the performance : how many people login at a time, how many second it need after login to enter dashboard
+[Reference for testing types](https://www.guru99.com/functional-testing-vs-non-functional-testing.html)
 
 ## testing techinque
 - There are testing pattern to design test case 
@@ -31,3 +32,5 @@ example;  1-50  to 1-10 and 11 -20 goes on we can take 3,12,eoc
 ### Error guessing
 
 - based on work experience with similar application we can predict some error that code may have
+
+[Reference for testing technique](https://www.guru99.com/software-testing-techniques.html)
