@@ -43,3 +43,11 @@ Compatibility test : check a web application support different platform
 
 
 [Reference for Types of testing](https://www.geeksforgeeks.org/types-software-testing/)
+
+On the higher level testing is divided into 3 boxes and it is based on knowledge of tester about internal working of the software.
+
+- Black box : Tester have no knowledge of internal  working.Provide input and verify output
+
+- Grey box : Tester have some knowledge like knowing about different user to test a web application.
+
+- White box : Tester have full knowledge about internal working.

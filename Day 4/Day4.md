@@ -1,9 +1,10 @@
-# Day - 3
+# Day - 4
 
 ## Functional and non-functional testing
 
 - functional : testing the feature example : login
 - non-functional : testing the performance : how many people login at a time, how many second it need after login to enter dashboard
+
 [Reference for testing types](https://www.guru99.com/functional-testing-vs-non-functional-testing.html)
 
 ## testing techinque
