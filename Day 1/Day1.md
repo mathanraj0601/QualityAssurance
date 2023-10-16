@@ -23,15 +23,15 @@ It is part of Software development helps to
 
 ## Software testing types 
 
-- functional test : applicatio running correctly
+- functional test : application running correctly
 - non-functional test : application matches the requirement overall
 
 ## Software Testiing Types
 
-Requirement Design:	Acceptance test creation eg: e-commerce  login,regitser 
-Functional Specification: Functional test case creation eg: can add to cart
-Implementation :	Unit test case creation  eg : stored properly in 
-Code Complete :	Test case execution for entire application to check the work together.
+- Requirement Design:	Acceptance test creation eg: e-commerce  login,regitser 
+- Functional Specification: Functional test case creation eg: can add to cart
+- Implementation :	Unit test case creation  eg : stored properly in database
+- Code Complete :	Test case execution for entire application to check the work together.
 
 [Reference for all above 5 topics ](https://artoftesting.com/what-is-software-testing)
 

@@ -33,6 +33,6 @@ Requirement Gathering -> Design specification -> Implementation -> testing -> De
 
 ## Phase of STLC
 
-Requirement analysis ( what to test and what not to test ) -> Test Planning and control (make the plan for test case ,document and budget example nummber of test case ) -> Test Case Development ( Writing manual test case or automating script using tools like selenium ) ->Test Environment setup (place to run the test cases ) -> Test Execution ( execute test case and find bug and fix it) -> Test closure (test report and documents and clean up test environment)
+Requirement analysis ( what to test and what not to test ) -> Test Planning and control (make the plan for test case ,document and budget example nummber of test case ) -> Test Case Development ( Writing manual test case or automating script using tools like selenium ) -> Test Environment setup (place to run the test cases ) -> Test Execution ( execute test case and find bug and fix it) -> Test closure (test report and documents and clean up test environment)
 
 [Reference for STLC](https://artoftesting.com/software-testing-life-cycle-stlc)
