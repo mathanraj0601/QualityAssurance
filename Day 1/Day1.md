@@ -9,7 +9,7 @@ It is part of Software development helps to
 
 > Note : Software testing is important as a small bug can lead to lot of money and life loss.
 
-## Who Conducts Software Testing
+## Who conducts Software Testing
 
 - Developer : Unit test
 - Tester : functional and performance testing
